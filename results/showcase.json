@@ -1,0 +1,33 @@
+{
+ "seed": 440,
+ "n": 300,
+ "start": 69,
+ "goal": 297,
+ "scanned": 500,
+ "solvable": 498,
+ "rank": 2,
+ "median_ratio": 1.225073861785151,
+ "mean_ratio": 1.2799812158903858,
+ "res": {
+  "ucs": {
+   "cost": 2616.3247851930255,
+   "expanded": 175,
+   "hops": 14
+  },
+  "greedy": {
+   "cost": 6212.454786349508,
+   "expanded": 31,
+   "hops": 19
+  },
+  "astar": {
+   "cost": 2616.3247851930255,
+   "expanded": 83,
+   "hops": 14
+  },
+  "bfs": {
+   "cost": 3597.4493242565054,
+   "expanded": 173,
+   "hops": 10
+  }
+ }
+}
